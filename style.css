@@ -1,0 +1,57 @@
+.red{
+     color:red;
+     display:block;
+     font-style:italic;
+     font-weight:bold;
+     font-size: 30px;
+}
+
+p{
+  color:darkred;
+  font-size:35px;
+}
+
+.cilver{
+     color:silver;
+     font-size:40px;
+}
+
+.text{
+   display:block;
+   font-size:30px;
+   line-height:30pt;
+   text-indent:23px;
+}
+
+.text2{
+    display:block;
+    color:green;
+    font-size:30px;
+    line-height:30pt;
+}
+
+.nor{
+    transform: none;
+}
+.inv{
+     transform: scaleX(-1);
+}
+.flip{
+     transform: scaleY(-1);
+}
+
+
+.aru{
+     text-shadow:20px 8px 7px;
+     font-size: 35px;
+}
+.ka{
+	font-size:35px;
+     color:   #fff;
+       color: #fff;
+  text-shadow: 
+    0 0 5px lime,
+    0 0 10px lime,
+    0 0 20px lime,
+    0 0 40px lime;
+}
